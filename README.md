@@ -1,0 +1,1 @@
+JailBreak is a game that almost everyone is familiar with. Bounce a ball into tile bricks hanging overhead to break them. Clear all the bricks to win. This is an app I developed during my JavaScript course.
